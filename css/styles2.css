@@ -1,0 +1,52 @@
+
+
+
+
+
+<style type="text/css">
+	
+	h2{
+		text-decoration: underline;
+		font-size: 30px;
+		color: darkblue;
+	}
+	h3{
+		color: darkblue;
+		font-size: 24px;
+	}
+	nav{
+		color: rebeccapurple;
+		font-size: 20px;
+		font-weight: bolder;
+	}
+	body{
+		background-color: darkgray;
+	}
+	ul{
+		color: white;
+	}
+	p{
+		font-size: 18px;
+		color:blue;
+		font-weight: bolder;
+	}
+	#div1{
+		background-color: black;
+	}
+	#div2{
+		background-color: skyblue;
+		border-style: solid;
+		position: relative;
+		bottom: 10px;
+	}
+	#div3{
+		background-color: lightblue;
+		border-style: dotted;
+		position: relative;
+		bottom: 5px;
+	}
+	iframe{
+		position: width;
+		top: .10px;
+	}
+	</style>
